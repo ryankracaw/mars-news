@@ -1,4 +1,4 @@
-# mars-news
+# Mars News and Weather
 
 How many months exist on Mars?
 24 months
